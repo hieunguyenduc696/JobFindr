@@ -9,6 +9,10 @@ logs/
 
 # Environment variables
 .env
+#server .env
+server/.env
+#client .env
+client/.env
 
 # Build output
 dist/
